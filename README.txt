@@ -89,14 +89,7 @@ Plot and Load saved output
 
 - plot_func.py (subroutines for generating the plots)
 
-
-
 ---------------------------------------------------------------
-
-
-In this subsection we explore the limit to which we can push not solving each linear system to high accuracy. We allow PCG to have a relatively low tolerance. In this case, the norm of the vector v will also grow. 
-
-
 
 
 
